@@ -20,4 +20,4 @@ public class P12EvenNumber {
     }
 }
 
-//but judge doesn't liked it
+//but judge doesn't like it
